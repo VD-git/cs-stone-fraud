@@ -4,3 +4,6 @@
     * Aqui também foi realizada a uma análise de performance para avaliar o tuning da modelagem.
 - Parte 03: Análise de performance.
     * Aqui também foi realizadas novas modelagens para a comparação da modelagem com DummyClassifier.
+
+# OBS.:
+- As explicações de cada etapa e análises foram realizadas nos próprios notebooks dentro da pasta *case_notebook*
